@@ -1,11 +1,10 @@
-# Olá, sou o Leonardo 👋
+# Hi, I'm Leonardo 👋
 
-Software Developer com formação em Engenharia Informática.
+Software Developer.
 
-Gosto de desenvolver aplicações web e transformar ideias em produtos
-funcionais, trabalhando tanto em frontend como backend.
+I enjoy developing web applications and turning ideas into functional products, working across both frontend and backend.
 
-### 🛠️ Tecnologias
+### 🛠️ Technologies
 
 - JavaScript / TypeScript
 - React / Next.js
@@ -15,11 +14,10 @@ funcionais, trabalhando tanto em frontend como backend.
 - Git / GitHub
 - Vercel
 
-### 💻 Atualmente
+### 💻 Currently
 
-Tenho trabalhado em projetos próprios e projetos para clientes,
-desde websites a aplicações web e ferramentas com inteligência artificial.
+I've been working on personal projects and projects for clients, ranging from websites and web applications to tools involving artificial intelligence.
 
-### 📫 Contacto
+### 📫 Contact
 
 🌐 [leonardobotelho.pt](https://www.leonardobotelho.pt)
