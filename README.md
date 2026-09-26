@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, sou o Leonardo 👋
 
-<!--
-**FakerPT/FakerPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer com formação em Engenharia Informática.
 
-Here are some ideas to get you started:
+Gosto de desenvolver aplicações web e transformar ideias em produtos
+funcionais, trabalhando tanto em frontend como backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+
+- JavaScript / TypeScript
+- React / Next.js
+- Python / FastAPI
+- HTML / CSS / Tailwind
+- SQL
+- Git / GitHub
+- Vercel
+
+### 💻 Atualmente
+
+Tenho trabalhado em projetos próprios e projetos para clientes,
+desde websites a aplicações web e ferramentas com inteligência artificial.
+
+### 📫 Contacto
+
+🌐 [leonardobotelho.pt](https://www.leonardobotelho.pt)
